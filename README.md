@@ -18,7 +18,10 @@ https://github.com/DECO3500-YYDS/virtual-tour/wiki
 Unity3D 2020.3.14f1c1
 
 # Instructions for Use
-Resolution used in Unity: 1080x1920
+1. Download the zip from repository
+2. Unzip folder
+3. Run in the Unity
+4. Change the resolution to 1080x1920
 
 # XD Shared Link
 https://xd.adobe.com/view/a9967b5f-612c-4832-9191-95ea554bf199-fcc5/
