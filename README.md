@@ -15,7 +15,7 @@ https://github.com/DECO3500-YYDS/virtual-tour/wiki#kickstarter-video
 https://github.com/DECO3500-YYDS/virtual-tour/wiki
 
 # Develop Tools
-Unity3D 2020.3.14f1
+Unity3D 2020.3.14f1c1
 
 # Instructions for Use
 Resolution used in Unity: 1080x1920
